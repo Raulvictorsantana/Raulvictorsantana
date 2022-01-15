@@ -1,16 +1,34 @@
-### Hi there 👋
+Ola, meu nome é Raul victor.
 
-<!--
-**Raulvictorsantana/Raulvictorsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Sou estudante de front end;<br>
+🎓 Cursando analise e desenvolvimento de sistema na estacio;<br>
+😎 Com habilidade em Html, Css, bootstrap;<br>
+💻 Estudando no momento Javascript;<br>
+🏠 São paulo,
+   22 anos;
+   <div align="center">
+  <a href="https://github.com/Raulvictorsantana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raulvictorsantana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvictorsantana&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    
+  <img align="center" alt="imagem/boot.png" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  </div>
+  <br>
+  <div>
+  <a href="https:https://www.linkedin.com/in/raul-v-3a24ab112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+ 
+  </div>
+        
+        
+   
+    
+   
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
