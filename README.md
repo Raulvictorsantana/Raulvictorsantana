@@ -2,8 +2,8 @@ Ola, meu nome é Raul victor.
 
 👩‍💻 Sou estudante de front end;<br>
 🎓 Cursando analise e desenvolvimento de sistema na estacio;<br>
-😎 Com habilidade em Html, Css, bootstrap;<br>
-💻 Estudando no momento Javascript;<br>
+😎 Com habilidade em Html, Css, bootstrap, Javascript ;<br>
+💻 Estudando react.js ;<br>
 🏠 São paulo,
    22 anos;
    <div align="center">
