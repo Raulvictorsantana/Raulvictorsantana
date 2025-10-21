@@ -1,7 +1,7 @@
 Ola, meu nome é Raul victor.
 
 👩‍💻  Front end e suporte;<br>
-🎓 Cursando analise e desenvolvimento de sistema na estacio;<br>
+🎓 Cursando analise e desenvolvimento de sistema;<br>
 😎 Com habilidade em Html, Css, bootstrap, Javascript e auporte;<br>
 💻 Estudando react.js ;<br>
 🏠 São paulo,
