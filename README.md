@@ -1,11 +1,11 @@
 Ola, meu nome é Raul victor.
 
-👩‍💻 Sou estudante de front end;<br>
+👩‍💻  Front end e suporte;<br>
 🎓 Cursando analise e desenvolvimento de sistema na estacio;<br>
-😎 Com habilidade em Html, Css, bootstrap, Javascript ;<br>
+😎 Com habilidade em Html, Css, bootstrap, Javascript e auporte;<br>
 💻 Estudando react.js ;<br>
 🏠 São paulo,
-   22 anos;
+   25 anos;
    <div align="center">
   <a href="https://github.com/Raulvictorsantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raulvictorsantana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
